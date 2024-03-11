@@ -1,0 +1,26 @@
+/*CSS Document*/
+
+.center {
+    margin: auto;
+  width: 30%;
+  height: 500px;
+  border: 1px solid black;
+  padding: 10px; 
+}
+.button {
+
+    border-radius: 50%;
+}
+.round-edges{
+
+  border-radius: 2.5px;
+  font-size: medium;
+  font-weight: 50;
+  width: 250px;
+
+}
+.center2{
+display: block;
+margin: 0 auto;
+
+}
